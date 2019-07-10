@@ -1,4 +1,5 @@
 Belajar GitHub:
 1) Daftar akun
 2) Membuat repository pertama
-
+3) Mengenal Commit
+4) Membuat dan mengubah branch
