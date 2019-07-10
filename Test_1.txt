@@ -3,3 +3,5 @@ Belajar GitHub:
 2) Membuat repository pertama
 3) Mengenal Commit
 4) Membuat dan mengubah branch
+5) Merging branch
+6) Git
