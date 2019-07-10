@@ -1,0 +1,4 @@
+Belajar GitHub:
+1) Daftar akun
+2) Membuat repository pertama
+
